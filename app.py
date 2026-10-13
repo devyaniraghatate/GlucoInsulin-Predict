@@ -342,3 +342,4 @@ with tab_about:
 - Use **Reset to defaults** to start over.
 """
     )
+# https://glucoinsulin-predict-bbprqrsz4ytnmrrcivfuow.streamlit.app/
